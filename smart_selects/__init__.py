@@ -1,4 +1,4 @@
 from importlib.metadata import version
 
-__version__ = version("django-smart-selects")
+__version__ = "1.7.1"
 
